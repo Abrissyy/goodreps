@@ -7,9 +7,9 @@
     "vip": "NO"
   },
   "wiertarka": {
-    "password": "",
+    "password": "wiertara.2115",
     "expiry_date": "3024-08-01",
-    "max_boot_time": 1000,
+    "max_boot_time": 100,
     "concurrents": 1,
     "vip": "NO"
   },
