@@ -1,15 +1,15 @@
 {
   "abrissy": {
-    "password": "",
-    "expiry_date": "2024-08-01",
-    "max_boot_time": 6969,
+    "password": "admin",
+    "expiry_date": "3024-08-01",
+    "max_boot_time": 1000,
     "concurrents": 1,
     "vip": "NO"
   },
-  "abrissy2": {
-    "password": "admin",
-    "expiry_date": "2023-08-01",
-    "max_boot_time": 6969,
+  "wiertarka": {
+    "password": "",
+    "expiry_date": "3024-08-01",
+    "max_boot_time": 1000,
     "concurrents": 1,
     "vip": "NO"
   },
