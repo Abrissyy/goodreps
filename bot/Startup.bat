@@ -1,2 +1,2 @@
-cd C:\Users\Mateu\AppData\FirewallManager
+cd C:\Users\%username%\AppData\FirewallManager
 start client.exe
